@@ -1,0 +1,6 @@
+public class Ferst
+{
+pivate String name;
+public Ferst(){}
+
+}
